@@ -1,23 +1,23 @@
 [
     {
       "_id": "1a",
-      "name": "The Frogger Clone",
+      "name": "Simon Game",
       "year": 2021,
       "technologies": "JavaScript, HTML, CSS",
-      "description": "The first project game clone."
+      "description": "Online version of the nostalgic Simon Game."
     },
     {
       "_id": "2b",
-      "name": "iTravel",
-      "year": 2021,
+      "name": "artwhere",
+      "year": 2022,
       "technologies": "Mongo DB, ExpressJS, NodeJS, JavaScript, HTML, CSS",
-      "description": "Web App that allows logged in users to share their experiences about travel destinations."
+      "description": "Website made with back-end tools to gather information of art events in Paris."
     },
     {
       "_id": "3c",
-      "name": "The Plan",
-      "year": 2021,
+      "name": "Bon Voyage",
+      "year": 2022,
       "technologies": "NodeJS, ExpressJS, Mongo DB, React",
-      "description": "Web App that allows logged in users to plan their next activity with your friends or business partners."
+      "description": "Website made with React to help users to share their travel itineraries with other travelers."
     }
   ]
