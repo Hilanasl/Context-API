@@ -4,20 +4,23 @@
       "name": "Simon Game",
       "year": 2021,
       "technologies": "JavaScript, HTML, CSS",
-      "description": "Online version of the nostalgic Simon Game."
+      "description": "Online version of the nostalgic Simon Game.",
+      "website": "https://hilanasl.github.io/Game-Project/"
     },
     {
       "_id": "2b",
       "name": "artwhere",
       "year": 2022,
       "technologies": "Mongo DB, ExpressJS, NodeJS, JavaScript, HTML, CSS",
-      "description": "Website made with back-end tools to gather information of art events in Paris."
+      "description": "Website made with back-end tools to gather information of art events in Paris.",
+      "website": "https://art-where-app.herokuapp.com/"
     },
     {
       "_id": "3c",
       "name": "Bon Voyage",
       "year": 2022,
       "technologies": "NodeJS, ExpressJS, Mongo DB, React",
-      "description": "Website made with React to help users to share their travel itineraries with other travelers."
+      "description": "Website made with React to help users to share their travel itineraries with other travelers.",
+      "website": "https://bonvoyage-app.herokuapp.com/"
     }
   ]

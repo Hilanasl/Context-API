@@ -47,6 +47,10 @@ code {
   margin: 20px;
 }
  
+.ProjectCard a {
+  text-decoration: none;
+}
+
 .selected {
   text-shadow: 1px 0px 3px white;
   border-bottom: rgba(230, 244, 77, 0.804) solid 2px;
